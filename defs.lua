@@ -1,6 +1,6 @@
 return {
     websocket_prefix = "ws://",
-    websocket_secure_prefix = "wss://",    
+    websocket_secure_prefix = "wss://",
     nodes = {
         "computernewb.com/collab-vm/vm0/",
         "computernewb.com/collab-vm/vm1/",
@@ -10,6 +10,6 @@ return {
         "computernewb.com/collab-vm/vm5/",
         "computernewb.com/collab-vm/vm6/",
         "computernewb.com/collab-vm/vm7/",
-        "computernewb.com/collab-vm/vm8/",     
+        "computernewb.com/collab-vm/vm8/"
     }
 }
