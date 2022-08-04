@@ -3,5 +3,5 @@
 
 Once this project is done, you'll just have a nice and fancy chat client for CollabVM in Lua :)
 
-- [X] Guacamole implementation (Thanks @MDMCK10)
+- [X] Guacamole implementation (Thanks [@MDMCK10](http://github.com/MDMCK10 "@MDMCK10"))
 - [ ] CollabVM implementation  
