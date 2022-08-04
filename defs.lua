@@ -12,4 +12,4 @@ return {
         "computernewb.com/collab-vm/vm7/",
         "computernewb.com/collab-vm/vm8/"
     }
-}
+},
